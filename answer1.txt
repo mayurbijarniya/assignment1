@@ -1,0 +1,3 @@
+To generate SSh we use ssh-keygen in windows
+public key copy and paste in inside ssh key option in github
+then register it in github
