@@ -1,0 +1,4 @@
+2. tell the difference between nodejs and javascript
+
+JavaScript is a simple programming language that can be used with any browser that has the JavaScript Engine installed.
+Node. jsbis an interpreter or execution environment for the JavaScript programming language.
