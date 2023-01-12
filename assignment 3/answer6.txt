@@ -1,0 +1,1 @@
+The let statement is used to declare a local variable in TypeScript. It is similar to the var keyword, but it has some restriction in scoping in comparison of the var keyword. The let keyword can enhance our code readability and decreases the chance of programming error.
