@@ -1,0 +1,25 @@
+arr1 = [];
+arr1[0] = 5;
+arr1[5] = 10;
+console.log(arr1);
+
+printing : node .\script.js
+[ 5, <4 empty items>, 10 ]
+
+------------------------------------
+
+// OBJECTS
+
+const obj1 = {
+  name: "mayur",
+  branch: "cse",
+  course: "btech",
+};
+
+console.log(obj1);
+
+const arr6 = [obj1];
+console.log(arr6);
+
+{ name: 'mayur', branch: 'cse', course: 'btech' }
+[ { name: 'mayur', branch: 'cse', course: 'btech' } ]
