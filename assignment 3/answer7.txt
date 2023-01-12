@@ -1,0 +1,13 @@
+Primitive Data Types
+
+Number: Number data type in javascript can be used to hold decimal values as well as values without decimals.
+
+String: The string data type in javascript represents a sequence of characters that are surrounded by single or double quotes.
+
+Undefined: The meaning of undefined is ‘value is not assigned’.
+
+Boolean: The boolean data type can accept only two values i.e. true and false.
+
+Null: This data type can hold only one possible value that is null.
+
+
