@@ -1,0 +1,3 @@
+Non-Blocking: It refers to the program that does not block the execution of further operations.
+Synchronous execution usually refers to code executing in sequence.
+Node. js runs JavaScript code in a single thread, which means that your code can only do one task at a time.
