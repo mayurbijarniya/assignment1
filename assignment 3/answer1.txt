@@ -1,0 +1,5 @@
+Node.js uses ‘Single Threaded Event Loop’ architecture to handle multiple concurrent clients.
+The Node.js processing model is based on a Javascript-event-based model and a callback mechanism.
+This mechanism based on the event loop allows Node.js to run blocking I/O operations in a non-blocking way.
+Moreover, scaling is much simpler with a single thread than one thread/new thread per request under ordinary web loads.
+Now, let’s understand the key elements that make up Node.js architecture.
