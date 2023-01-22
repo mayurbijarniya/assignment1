@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f0deaf;
+}
+
+h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #735400;
+  line-height: 1.222;
+}
+
+p {
+  font-weight: 700;
+  color: #735400;
+  line-height: 1.222;
+}
+
+input[type="text"],
+[type="email"],
+[type="password"] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #735400;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type="submit"] {
+  background-color: #735400;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #cfb87c;
+}
+
+fieldset {
+  border-radius: 5px;
+  background-color: #efede6;
+  padding: 20px;
+}
