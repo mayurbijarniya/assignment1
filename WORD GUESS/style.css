@@ -1,0 +1,17 @@
+#game {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+input[type="text"] {
+  padding: 5px;
+  font-size: 20px;
+  margin: 5px;
+}
+
+button {
+  padding: 5px 20px;
+  font-size: 20px;
+  margin: 5px;
+}
